@@ -2,3 +2,9 @@ body{
     font-family: 'Noto Serif', serif;
     margin: 0;
 }
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
